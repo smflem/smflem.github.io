@@ -6,9 +6,9 @@ date:   2020-06-21
 
 Most people know Fred Brooks for his eponymous law from *The Mythical Man-Month* that states "Adding manpower to a late software project only makes it later".
 
-I'm trying to get around to writing up this core thesis, but in fact, that essay only spans ~13 pages of what is a 250+ page book of essays on software development.
+I'm trying to get around to writing up this core thesis, but that essay spans just 13 pages of what is a 250+ page book of essays on software development. So I'm breaking off and examining smaller chunks of insight from his less-well-known writing.
 
-So I'm breaking off and examining smaller chunks of insight from his less-well-known writing. First up, The Second System Trap:
+First up, The Second System Trap:
 
 >
 >An architect's first work is apt be spare and clean. They know they don't know
