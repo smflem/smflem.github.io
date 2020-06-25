@@ -21,7 +21,7 @@
 title: smflem's notebook
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a basic site set up to house my daily writing practice. It may be
+  This is a basic site set up to house my writing practice. It may be
   be expanded in the future or built out if I decide to take it more seriously
   (or use it as a more professional landing page).
 baseurl: "" # the subpath of your site, e.g. /blog
