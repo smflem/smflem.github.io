@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thinking Like A Camera"
+title:  "Thinking like a camera"
 date:   2020-06-24
 ---
 Warning: Solipsistic
