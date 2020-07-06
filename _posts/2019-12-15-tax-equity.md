@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Little mourning for the death of tax equity"
+title:  "Few mourn the death of tax equity"
 date:   2019-12-15
 ---
 

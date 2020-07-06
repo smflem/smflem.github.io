@@ -22,7 +22,7 @@ So, focusing on those with the potential ability to migrate, I want to explore 3
 
 3. Capacity for adaptive change
 
-Taken together, I think these can explain a large part of the observed variation in efforts to leave New York by me and my classmates. But this is also potentially extensible to decision-making and outcomes in urgent crises more broadly. One vivid potential example is documented by William Langewiesche in his retelling of the sinking of the ferry MS Estonia in 1994, during which 852 of 989 people on board died.
+Taken together, I think these can explain a large part of the observed variation in efforts to leave New York by me and my classmates. But this is also potentially extensible to decision-making and outcomes in urgent crises more broadly. One vivid potential example is documented by William Langewiesche in [his retelling][https://www.theatlantic.com/magazine/archive/2004/05/a-sea-story/302940/] of the sinking of the ferry MS Estonia in 1994, during which 852 of 989 people on board died.
 
 
 Awareness of change in the environment
@@ -46,15 +46,15 @@ For me—remote student, Canadian citizen, welcoming family—the change require
 
 That said, I think there was a large murky middle ground here with many people facing barriers to migration within an order of magnitude or two of me. Complicating matters though, your estimates of the disruption of leaving the city are directly related to the accuracy of your estimates of how life in the city is going to change through the pandemic .
 
-If you expected New York to be mostly unchanged save a bit more hand-washing and no Broadway for a while, the losses from leaving would seem much starker than if you realized the entire city would be shut down with naught but sirens and furtive grocery shopping to bring life to the streets. A backyard in the suburbs beats a fire escape when you’re sheltering in place.
+If you expected New York to be mostly unchanged save a bit more hand-washing and no Broadway for a while, the losses from leaving would seem much starker than if you realized the entire city would be shut down with naught but sirens and furtive grocery shopping to bring life to the streets. A backyard beats a fire escape when you’re sheltering in place.
 
 
 Capacity for adaptive change
 ============================
 
-If you’re aware of the tidal wave coming, and you’re conveniently located at the bottom of stairs to safety, are you healthy enough to get yourself up the stairs in time?
+If you’re aware of the tidal wave coming, and you’re conveniently located at the bottom of the ladder to safety, are you healthy enough to get yourself up the ladder in time?
 
-This is probably the woolliest of the factors, because it is hard to observe directly in others, but I believe people’s capacity for change varies. Personal experience with lifestyle change seemed to play a role in amplifying or exhausting people’s ability to undertake pandemic-driven change.
+This is probably the wooliest of the factors, because it is hard to observe directly in others, but I believe people’s capacity for change varies. Personal experience with lifestyle change seemed to play a role in amplifying or exhausting people’s ability to undertake pandemic-driven change.
 
 As a former consultant with hundreds of flights and hotel-nights behind me (including a few months in a northern mine camp), packing a suitcase and a laptop for indefinite travel to another country felt almost normal. I’ve lived in 4 cities in the last 5 years, and worked in a half dozen more. I’m used to rebuilding my life as needed wherever I end up.
 
