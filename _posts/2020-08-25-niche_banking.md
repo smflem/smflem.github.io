@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "The overlooked danger of industry growth"
+title:  "The overlooked danger of sector growth"
 date:   2020-08-25
 ---
 
 In research for a [previous post](https://smflem.github.io/2019/12/15/tax-equity.html) on tax equity structures in renewable energy, I was surprised that the investment bankers I talked to were unfazed or even supportive of the imminent tax credit phaseout. At the time, this was frankly shocking to me, motivating the research that led to the article.
 
-Tax equity structures are weird. There's a good explainer from the Congressional Research Service [here](https://fas.org/sgp/crs/misc/R45693.pdf), but suffice to say these deals were often facilitated by specialist advisors (e.g., CohnReznick Capital) and marketed to specialist investors (e.g., other banks)
+Tax equity structures are weird. There's a good explainer from the Congressional Research Service [here](https://fas.org/sgp/crs/misc/R45693.pdf), but suffice to say these deals were often facilitated by specialist advisors (e.g., CohnReznick Capital) and marketed to specialist investors with specific tax minimization strategies(e.g., other banks)
 
 Putting aside the climate change implications, why were these market experts--shepherds of the complex financing structures required to get renewable energy projects developed before cost parity was reached--so keen to see their clients' financing needs get simpler?
 
