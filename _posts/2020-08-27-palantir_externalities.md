@@ -10,7 +10,7 @@ The release of [Palantir's S-1][palantir_s1] has revived discussion about the et
 
 Byrne Hobart has a relatively solid, brief treatment [here][hobart_palantir] that covers the business and political (and cult?) angles, highlighting that:
 
-"The question from Palantir’s perspective is, once a policy is decided, whether it should be implemented well or poorly; should US counterterrorism involve ad hoc, poorly-coordinated privacy violations, or should the data the government already collects be collated into some usable form so the actual threats can be identified and mitigated?"
+>"The question from Palantir’s perspective is, once a policy is decided, whether it should be implemented well or poorly; should US counterterrorism involve ad hoc, poorly-coordinated privacy violations, or should the data the government already collects be collated into some usable form so the actual threats can be identified and mitigated?"
 
 To me, this feels just a hair too simplistic, in that it elides the iterative / temporal nature of policy-making around new technology. In this case, perhaps surprisingly, I think the controversy around crude oil transport out of western Canada is illustrative.
 
@@ -28,7 +28,7 @@ To crib Byrne's framing above: "Should oil shipment involve inefficient, spill-p
 
 This is the same type of technology solution that Palantir is purportedly selling; security is foundational to modern civilization and so one could argue that its provision should be as effective and efficient (minimally invasive / rights infringing) as possible, and not be subject to the whims of [individual stakeholders][maven_withdrawal].
 
-But in focusing on the elimination of one tradeoff (oils spills vs oil use; privacy invasion vs increased security), this framing glosses over another critical piece of the puzzle: "once a policy has been decided". These decisions are not one-shot, but in fact are part of continuously evolving feedback loops, constrained by the possible, that take *time* to reach their conclusion.
+But in focusing on the elimination of one tradeoff (oils spills vs oil use; privacy invasion vs increased security), this framing glosses over another critical piece of the puzzle: "once a policy has been decided". These decisions are not one-shot, but in fact are part of continuously evolving feedback loops, constrained by the possible, that take **time** to reach their conclusion.
 
 This is doubly important because it is not always a question of achieving output X more efficiently with technology B than technology A, but rather that the deployment of technology B actually results in a higher output Y. The construction of pipelines, and the attendant reduction of oil transport costs, could reasonably be expected to increase the volume of oil produced. If history is any guide, the purported improvements from the use of Palantir's software could increase the volume of data collected and privacy infringed (even if the damage to any given person is much smaller).
 
@@ -38,7 +38,7 @@ This is not to disagree with Byrne's '[compromise through presumed incompetence]
 
 In the decade since the pipeline protests began in Canada, the federal government has implemented a carbon tax to support the transition away from carbon-intensive production and consumption. It has also bought a key pipeline to try to enable the expansion of exports to the coast. Since the Snowden leaks, among others, democratically-elected representatives in the US have been pressured to at least gesture toward better management of government security and surveillance efforts.
 
-This argument is pragmatic rather than categorical; there is no coherent way to say we should do bad things more slowly without potentially slowing down good advancements, since 'bad' and 'good' are politically determined. But it may not always be "[morally lazy][hobart_palantir]" to ask that such democratically-determined control measures are in place *before* the technologies in question are deployed widely.
+This argument is pragmatic rather than categorical; there is no coherent way to say we should do bad things more slowly without potentially slowing down good advancements, since 'bad' and 'good' are politically determined. But it may not always be "[morally lazy][hobart_palantir]" to ask that such democratically-determined control measures are in place **before** the technologies in question are deployed widely.
 
 [palantir_s1]: [https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm]
 
