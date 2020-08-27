@@ -38,7 +38,7 @@ This is not to disagree with Byrne's '[compromise through presumed incompetence]
 
 In the decade since the pipeline protests began in Canada, the federal government has implemented a carbon tax to support the transition away from carbon-intensive production and consumption. It has also bought a key pipeline to try to enable the expansion of exports to the coast. Since the Snowden leaks, among others, democratically-elected representatives in the US have been pressured to at least gesture toward better management of government security and surveillance efforts.
 
-This argument is pragmatic rather than categorical; there is no coherent way to say we should do bad things more slowly without potentially slowing down good advancements, since 'bad' and 'good' are politically determined. But it may not always be "[morally lazy][hobart_palantir]" to ask that such democratically-determined control measures are in place **before** the technologies in question are deployed widely.
+This argument is pragmatic rather than categorical; there is no coherent way to say we should do bad things more slowly without potentially slowing down good advancements, since 'bad' and 'good' are politically determined. But it may not always be "[morally lazy][hobart_palantir]" to ask that such democratically-determined control measures are in place *before* the technologies in question are deployed widely.
 
 [palantir_s1]: [https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm]
 
