@@ -6,7 +6,7 @@ date:   2020-08-27
 
 *Epistemic status: Low confidence, written to work through this for myself*
 
-The release of [Palantir's S-1][https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm] has revived discussion about the ethics of its business and its ongoing work for government agencies that many see as perpetrating injustice.
+The release of [Palantir's S-1][palantir_s1] has revived discussion about the ethics of its business and its ongoing work for government agencies that many see as perpetrating injustice.
 
 Byrne Hobart has a relatively solid, brief treatment [here][hobart_palantir] that covers the business and political (and cult?) angles, highlighting that:
 
@@ -40,6 +40,7 @@ In the decade since the pipeline protests began in Canada, the federal governmen
 
 This argument is pragmatic rather than categorical; there is no coherent way to say we should do bad things more slowly without potentially slowing down good advancements, since 'bad' and 'good' are politically determined. But it may not always be "[morally lazy][hobart_palantir]" to ask that such democratically-determined control measures are in place *before* the technologies in question are deployed widely.
 
+[palantir_s1]: [https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm]
 
 [hobart_palantir]: [https://diff.substack.com/p/palantir-on-business-cults-and-politics]
 
