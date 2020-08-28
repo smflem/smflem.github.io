@@ -10,7 +10,7 @@ The release of [Palantir's S-1][palantir_s1] has revived discussion about the et
 
 Byrne Hobart has a relatively solid, brief treatment [here][hobart_palantir] that covers the business and political (and cult?) angles, highlighting that:
 
->"The question from Palantir’s perspective is, once a policy is decided, whether it should be implemented well or poorly; should US counterterrorism involve ad hoc, poorly-coordinated privacy violations, or should the data the government already collects be collated into some usable form so the actual threats can be identified and mitigated?"
+>The question from Palantir’s perspective is, once a policy is decided, whether it should be implemented well or poorly; should US counterterrorism involve ad hoc, poorly-coordinated privacy violations, or should the data the government already collects be collated into some usable form so the actual threats can be identified and mitigated?
 
 To me, this feels just a hair too simplistic, in that it elides the iterative / temporal nature of policy-making around new technology. In this case, perhaps surprisingly, I think the controversy around crude oil transport out of western Canada is illustrative.
 
