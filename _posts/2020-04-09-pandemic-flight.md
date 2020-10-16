@@ -22,7 +22,7 @@ So, focusing on those with the potential ability to migrate, I want to explore 3
 
 3. Capacity for adaptive change
 
-Taken together, I think these can explain a large part of the observed variation in efforts to leave New York by me and my classmates. But this is also potentially extensible to decision-making and outcomes in urgent crises more broadly. One vivid potential example is documented by William Langewiesche in [his retelling][https://www.theatlantic.com/magazine/archive/2004/05/a-sea-story/302940/] of the sinking of the ferry MS Estonia in 1994, during which 852 of 989 people on board died.
+Taken together, I think these can explain a large part of the observed variation in efforts to leave New York by me and my classmates. But this is also potentially extensible to decision-making and outcomes in urgent crises more broadly. One vivid potential example is documented by William Langewiesche in [his retelling](https://www.theatlantic.com/magazine/archive/2004/05/a-sea-story/302940/) of the sinking of the ferry MS Estonia in 1994, during which 852 of 989 people on board died.
 
 
 Awareness of change in the environment
@@ -32,7 +32,7 @@ Basically, were you paying attention to COVID-19, was the quality of your incomi
 
 As with any exponential crisis not being closely followed, COVID-19 seemed superficially fine to many, until suddenly it wasn’t. It was a hoax, or it wasn’t a big deal, or it was a big deal but only in China, or it was a big deal in China and countries with a lot of old people like Italy, but not here…
 
-At the same time, if you were in the right parts of Twitter at the right time, or received the right newsletters, you would have been hearing a much different story, one in which a world-altering wave was starting to come ashore as the mayor from Jaws was telling people to go back in the water.
+At the same time, if you were in the [right parts](https://stratechery.com/2020/zero-trust-information/) of Twitter at the [right time](https://stratechery.com/2020/defining-information/), or received the right newsletters, you would have been hearing a much different story, one in which a world-altering wave was starting to come ashore as the mayor from Jaws was telling people to go back in the water.
 
 I don’t want to belabor this point, as I think it risks making me look more prescient than I am, but suffice to say if you weren’t paying attention until after stores were cleared of soup and toilet paper then you probably didn’t leave the city.
 
