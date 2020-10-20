@@ -27,13 +27,13 @@ To me, the underpinning of Brooks’s Law is that, for a given project, the impa
 
 To take the most simple example, if a task is unpartitionable (cannot be subdivided), then adding people to the project will have no impact at all (as shown below).
 
-![Unpartitionable task time](_site\assets\Images\man-month_unpartitionable.jpg)
+![Unpartitionable task time](/images/man-month_unpartitionable.jpg)
 
 One non-technical example might be that of a soloist performing a live violin concerto. Adding more violinists doesn't get the performance done any faster (nor any better, and perhaps worse).
 
 At the other extreme, if a task is perfectly partitionable (can be subdivided into arbitrarily small chunks) with no need for communication between sub-tasks, then adding people to the project will allow predictable reduction in absolute time to completion.
 
-![Perfectly partitionable task time](_site\assets\Images\man-month_perfectly_partitionable.jpg)
+![Perfectly partitionable task time](/images/man-month_perfectly_partitionable.jpg)
 
 Image coding for machine-learning datasets is a potentially useful example. While it might take years of menial labor for a single individual to tag a large corpus of images as 'contains a bridge' or 'does not contain a bridge', when parallelized as a captcha or mechanical turk exercise, the work can be completed much more quickly.
 
@@ -45,7 +45,7 @@ But to my knowledge it has not yet proven rewarding to subdivide a concerto into
 
 To put a finer point on this, for n nodes in a productive system requiring coordination between each node, there will be n(n-1)/2 connections. Coordination along each connection requires incremental effort. Thus, for tasks that can be partitioned, but that require coordination, we would expect the following results of adding more contributors.
 
-![Complex interdependent task time](_site\assets\Images\man-month_complex_interdependent.jpg)
+![Complex interdependent task time](/images/man-month_complex_interdependent.jpg)
 
 This is the situation that gives rise to Brooks's law. Given a need for coordination, incremental contributors can create more coordination costs than they add in productive effort, making the project even later than before.
 
@@ -55,7 +55,7 @@ While the above might seem straightforward, it can help explain many of the chal
 
 One straightforward (and common) way to resolve this is through hierarchy. Rather than have a team of 4  people (a, b, c, d) coordinating with each other, you might end up with b and c reporting into a, with d reporting into c. This team structure (not uncommon in strategy consulting) cuts the number of connections in half, from 6 to 3.
 
-![Hierarchy](_site\assets\Images\man-month_hierarchy.jpg)
+![Hierarchy](/images/man-month_hierarchy.jpg)
 
 Another possible solution lies in reducing the number of nodes involved as much as possible. Brooks suggest two ways to achieve this: by breaking the work into expensive to coordinate and cheap to coordinate components, and by having each node produce more.
 
