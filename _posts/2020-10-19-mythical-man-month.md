@@ -43,13 +43,13 @@ In the image coding example, the millions of bridge-identifiers have no need of 
 
 But to my knowledge it has not yet proven rewarding to subdivide a concerto into individual notes for live performance by different musicians. The coordination required (e.g., timely handoffs, maintenance of rhythm, consistent interpretation of music to be performed) to maintain a high quality performance is untenable. (Incidentally, I suspect this is one of the reasons that deep work can seem so effective: it minimizes coordination costs between different temporal versions of ourselves.)
 
-To put a finer point on this, for n nodes in a productive system requiring coordination between each node, there will be n(n-1)/2 connections. Coordination along each connection requires incremental effort. Thus, for tasks that can be partitioned, but that require coordination, we would expect the following results of adding more contributors.
+To put a finer point on this, for n nodes in a productive system requiring coordination between each node, there will be n(n-1)/2 connections. Coordination along each connection requires incremental effort. Thus, for tasks that can be partitioned, but that require coordination, we would expect the following results from adding more contributors.
 
-![Complex interdependent task time](/images/man-month_complex_interdependent.jpg){:class="img-responsive"}
+![Complex interdependent task time](/images/man-month_complex_interdependent.jpg)
 
 This is the situation that gives rise to Brooks's law. Given a need for coordination, incremental contributors can create more coordination costs than they add in productive effort, making the project even later than before.
 
-While the above might seem straightforward, it can help explain many of the challenges in managing 'knowledge' work, while illuminating potential vectors for improvement.
+While the above might seem straightforward, it can help explain many of the challenges in managing complex work, and point to potential vectors for improvement.
 
 **1. Reduce the number of connections / interdependencies**
 
