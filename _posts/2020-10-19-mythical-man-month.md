@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Book Review: The Mythical Man-Month"
-date:   2020-09-19
+title:  "The Mythical Man-Month"
+date:   2020-10-19
 ---
 
 
