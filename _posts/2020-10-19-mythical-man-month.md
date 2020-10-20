@@ -45,13 +45,13 @@ But to my knowledge it has not yet proven rewarding to subdivide a concerto into
 
 To put a finer point on this, for n nodes in a productive system requiring coordination between each node, there will be n(n-1)/2 connections. Coordination along each connection requires incremental effort. Thus, for tasks that can be partitioned, but that require coordination, we would expect the following results of adding more contributors.
 
-![Complex interdependent task time](/images/man-month_complex_interdependent.jpg)
+![Complex interdependent task time](/images/man-month_complex_interdependent.jpg){:class="img-responsive"}
 
 This is the situation that gives rise to Brooks's law. Given a need for coordination, incremental contributors can create more coordination costs than they add in productive effort, making the project even later than before.
 
 While the above might seem straightforward, it can help explain many of the challenges in managing 'knowledge' work, while illuminating potential vectors for improvement.
 
-1. Reduce the number of connections / interdependencies
+**1. Reduce the number of connections / interdependencies**
 
 One straightforward (and common) way to resolve this is through hierarchy. Rather than have a team of 4  people (a, b, c, d) coordinating with each other, you might end up with b and c reporting into a, with d reporting into c. This team structure (not uncommon in strategy consulting) cuts the number of connections in half, from 6 to 3.
 
@@ -67,7 +67,7 @@ But if the quantity of required work is fixed, this would necessarily mean more 
 
 To the extent you believe the math here, it is unrelenting. Certain types of complex knowledge workers can't reduce their hours without taking a disproportionate productivity hit, and those that are willing to work harder (e.g., [996](996_system)) will be able to consistently move faster and produce more.
 
-2. Reduce the coordination cost per connection
+**2. Reduce the coordination cost per connection**
 
 Improvements here can be as myriad as the potential drivers of coordination costs. Because of their grounding in *how* the work gets done (rather than *what* works gets undertaken by whom), pathologies and remedies tend to be more specific to the people and processes being examined.
 
