@@ -73,12 +73,24 @@ Improvements here can be as myriad as the potential drivers of coordination cost
 
 In a software context, this can mean building standardized interconnections between parts of a system (e.g., APIs), using better tools (e.g., git), or building efficient processes for coordination across a team (e.g., morning standups). Culture can also play a role here, in terms of how contributors communicate and work together.
 
-In modern software development, the practice of 'DevOps' is focused on advancing solutions to many of these challenges in software development and deployment through the use of better tools, coordination and release processes. As Brooks outlines in another essay, there is [no silver bullet][silver_bullet] here. There are many ways to tackle these challenges in a specific organization or specific team. Some of them will ultimately prove effectively irreducible.
+This is one way to think about the practice of 'DevOps', and its focus on advancing solutions to many of these challenges in software development and deployment through the use of better tools, coordination and release processes.
+
+As Brooks outlines in another essay, there is [no silver bullet][silver_bullet] here. There are many ways to tackle these challenges in a specific organization or specific team.
+
+And large corporations often have the resources to build systems that can reduce these frictions for commonly undertaken tasks, enabling them to push against the high coordination costs that might otherwise be required. This fits with Coase's argument in ["The Nature of the Firm"](coase_firm) that companies exist in response to high transaction / coordination costs (in the market).
+
+Even then, some frictions may prove effectively irreducible, if only in the sense that they are not worthwhile to reduce.
+
+This might occur when a task is relatively small, or will only be undertaken once. In these cases, the effort required to reduce the coordination costs may prove uneconomical. Sometimes [brute forcing](xkcd_spreadsheets) a task is more efficient than using a more elegant approach. Or task may be sufficiently underdescribed such that optimization is impossible (or ill-advised). For example, in the context of innovation, the 'coordination costs' of feedback loops between team members are integral to the process.
+
+Further, despite the coordination drag, there are can be good reasons for keeping teams less than maximally lean (e.g., [Bus Factor](bus_factor), volatility in capacity required).
 
 
+Ultimately, this framework can prove helpful in trying to diagnose potential productivity issues on a project, or in understanding potential areas for improvement, but likely shouldn't be taken as a roadmap per se given all the other factors that may be in play.
 
 
 --
+
 
 [^1]: To me, this feels realistic or even low, depending on the type of work being undertaken. I have heard of systems where 2 people will split a role for 50% pay / 60% work (e.g., 3 days of work each with Wednesday as overlap). If they would normally work 50 hours per week across 5 days, then the coordination effort (an extra half day for each of them) would actually be ~10 hours in total. If we assume 10 hours per connection in the problem above, coordination costs rise to ~21% of total effort for the 4 person team and *~75%* of effort for the 7 person team, requiring ~61 hours of effort per 7-person team member.
 
@@ -86,3 +98,6 @@ In modern software development, the practice of 'DevOps' is focused on advancing
 [man-month_amazon]:[https://www.amazon.ca/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/]
 [996_system]:[https://en.wikipedia.org/wiki/996_working_hour_system]
 [silver_bullet]:[http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf]
+[bus_factor]:[https://applieddivinitystudies.com/2020/10/15/bus-factor/]
+[coase_firm]:[https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0335.1937.tb00002.x]
+[xkcd_spreadsheets]:[https://xkcd.com/2180/]
