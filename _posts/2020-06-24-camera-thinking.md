@@ -3,7 +3,7 @@ layout: post
 title:  "Thinking like a camera"
 date:   2020-06-24
 ---
-Warning: Solipsistic
+*Warning: Solipsistic*
 
 Focus is a recurring challenge in my productive life. Given this, over the years I have rolled around many different metaphors for thinking / focusing, in an effort to 1) articulate how this feels subjectively 2) try to focus better / more readily.
 
