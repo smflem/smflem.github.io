@@ -86,7 +86,7 @@ This might occur when a task is relatively small, or will only be undertaken onc
 Further, despite the coordination drag, there are can be good reasons for keeping teams less than maximally lean (e.g., [Bus Factor](bus_factor), volatility in capacity required).
 
 
-Ultimately, this framework can prove helpful in trying to diagnose potential productivity issues on a project, or in understanding potential areas for improvement, but likely shouldn't be taken as a roadmap per se given all the other factors that may be in play.
+Ultimately, this framework should prove helpful in trying to diagnose potential productivity issues on a project, or in understanding potential areas for improvement, but likely shouldn't be taken as a roadmap per se given all the other factors that might be in play.
 
 
 --
