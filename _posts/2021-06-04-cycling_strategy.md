@@ -15,44 +15,29 @@ To my delight, I recently found the same to be true about road cycling. *"Bike f
 
 This post is an attempt to lay out how I think about the competitive variables of cycling racing, and how those interact to create thrilling moments of prowess.
 
-# The Constraints
-## The Constraints
-### The Constraints
-
-# *The Constraints*
-## *The Constraints*
-### *The Constraints*
-
 # **The Constraints**
-## **The Constraints**
-## **The Constraints**
-
-# ***The Constraints***
-## ***The Constraints***
-## ***The Constraints***
-
 
 Beyond the UCI's[^uci] stringent sock regulations, there are a number of key constraints teams and riders must overcome to win a bike race, constraints that intimately shape the competition.
 
-## Air resistance
+# Air resistance
 
 The energy required to overcome air resistance increases non-linearly with speed. Going 10% faster than your competition requires more than 10% extra effort.
 
 At the same time, drafting--riding behind someone else at a close distance--reduces the air resistance that a rider must overcome, allowing them to use less energy to maintain a given speed (or briefly go faster for a given output). On flat roads, where average speeds are high, air resistance will dominate in determining the shape of the race, leading to pelotons and other group formations[^teams] at the expense of individual attacks.
 
-## Gravity
+# Gravity
 
 For a given power output, being heavier--whether in equipment, muscles or fat--will make a rider slower to ascend a climb. The converse is also true: if a given power output can be maintained, less weight will mean more speed up hills.
 
 On hills, where speeds are relatively lower, gravity reasserts itself. The benefits of sitting in the bunch diminish, forcing riders to increase their efforts or fall off the back of the group. And so, pelotons get blown apart by hills, with sprinters and spent domestiques falling behind to limp across the finish line ahead of the time cutoff.
 
-## Bike Handling
+# Bike Handling
 
 Professional cyclists ride very fast, up and down hills, over gravel and cobbles. They do all this on tires with a few centimeters of ground contact, surrounded by 100+ teammates and competitors. Falls happen, and they can be individually and collectively catastrophic. Yet slow down for safety, and a more aggressive rival might seize the opening.
 
 Despite the ever-finer quantification of training and performance in the sport, bike handling and positioning still play an important role. Top riders need to be able to hold their space in the peloton, navigate to the front of the group at key moments to avoid being dropped (or caught behind a crash), and descend with speed and surety.
 
-## Human physiology
+# Human physiology
 
 'Do they have the legs...?'
 
@@ -66,15 +51,15 @@ If a rider sprints off the front of the group (expending a huge amount of energy
 
 This is endurance poker played over hours and weeks in the saddle, decided by a margin of seconds and minutes at the key moments.
 
-# The Stakes: Different ways to win
+# **The Stakes: Different ways to win**
 
 For a sport superficially about getting from A to B the fastest, there are many ways to win. Within the constraints and within the same race, different teams can be pursuing different goals at different times, heightening the action and multiplying opportunities for exhibitions of excellence.
 
-## Stage Wins
+# Stage Wins
 
 This is the most basic unit of victory available. First to the finish line at the end of the day's racing wins the stage.
 
-## General Classification (GC)
+# General Classification (GC)
 
 The rider with the lowest cumulative time across all stages of the race leads the General Classification. In the Giro, this rider wears a pink jersey, the _maglia rosa_, to denote their preeminence.
 
@@ -84,19 +69,19 @@ The margin of success is narrow. Across more than 86 hours of racing, the winnin
 
 When people talk of 'winning' Grand Tours like the Giro or the Tour de France', this is what they mean. Interestingly, a rider doesn't need to win any specific stages to win overall; Egan Bernal won the 2019 Tour de France without winning a single stage.
 
-## Points Classification
+# Points Classification
 
 Riders earn points based on their stage finishes and some intermediate sprints[^intermediate_sprints]. Because of their tendency to win stages and place well in group finishes, sprinters have often led this category in recent years. In the 2021 Giro, the leader of this category wore a mauve jersey, the _maglia ciclamino_.
 
-## Mountains Classification (King of the Mountains)
+# Mountains Classification (King of the Mountains)
 
 Riders earn 'King of the Mountain' points[^kom_points] for reaching the tops of climbs first, including mountaintop finishes, with the points available dependent on the difficulty of a given climb. The highest peak in the Giro is known as the Cima Coppi (honoring Italian cyclist Fausto Coppi) and carries the most KOM points of any of the race's peaks. In the latest Giro, the KOM leader wore a blue jersey.
 
-# The Strategic Results
+# **The Strategic Results**
 
 So, we know the constraints and the goals, what forms does the racing take as a result?
 
-## The Sprint (Stage Wins / Points)
+# The Sprint (Stage Wins / Points)
 
 For those sufficiently-flat stages where the peloton remains intact, the stage win is generally decided by a sprint. While a breakaway might form, the drafting benefits of remaining in the peloton (and the return-on-effort for teams working to put sprinters into position) are almost sure to bring the group together for the final kilometers.
 
@@ -106,7 +91,7 @@ Because the world is rarely ideal, the reality is often much messier. These wins
 
 One interesting alternative to the textbook leadout, attempted in stages [3][bh_pace_sagan_3] and [10][bh_pace_sagan_10] by Bora-Hansgrohe, is to push the pace of the peloton high _before_ the sprint so that other team's sprinters get dropped ahead of the climactic moment. Because Peter Sagan is _relatively_ better at hills than some of his sprint rivals, his team can distance other sprinters by pushing the pace through the hills, improving Sagan's odds at the finish.
 
-## The Breakaway (Stage Wins / KOM)
+# The Breakaway (Stage Wins / KOM)
 
 How do you win a stage when you're not a sprinter or a GC contender? By getting away and staying away from the peloton.
 
@@ -122,13 +107,13 @@ Sprints are decided by timing, positioning, and maximum output levels; the break
 
 Again, these levels aren't strictly knowable. A world-class time triallist[^time_trial] like Remi Cavagna can jump ahead with a [huge effort][cavagna_attempt], only to hit his limit with <7km left. Others can find themselves with enough left to secure a stage win on their first Grand Tours, like [Taco Van Der Hoorn][taco_surprise_win] and [Lorenzo Fortunata][fortunata_zoncolan] did at this year's Giro.
 
-## Attacking Downhill (GC / Stage Wins)
+# Attacking Downhill (GC / Stage Wins)
 
 While it is rare[^downhill_attack] for races or even stages to be won on descents, it does happen. The most memorable (for me at least) was Chris Froome's performance in [Stage 8][froome_tour_8][^froome_descent] of the 2016 Tour de France (before the supertuck was [banned][supertuck_ban] by the UCI).
 
 More commonly, the time gained through aggressiveness in cornering can be just as quickly lost in a crash, as [Fernando Gaviria][fernando_gaviria_crash] and [Remi Cavagna][remi_cavagna_crash] showed at this year's Giro. Thus, attacking downhill can be used to stretch out the group, and potentially open up gaps behind to rivals, but is rarely sufficient on its own to take a win or regain significant time in the GC standings.
 
-## Attacking Uphill (GC / Stage Wins / KOM)
+# Attacking Uphill (GC / Stage Wins / KOM)
 
 Where GC contenders rarely participate in sprints or breakaways per se, their viability as racers depends on hanging with and attacking rivals uphill, especially at uphill finishes.
 
@@ -138,7 +123,7 @@ Highlights fail to capture the real magic of this. Riders grinding away at the e
 
 Those able to keep the pace, or even attack beyond their rivals' limits, set themselves up for overall victory.
 
-# The Winning
+# **The Winning**
 
 So where does all that leave us:
 - With Filippo Ganna, the best time triallist in the world, pushing the wind at the front of the peloton on the flats
@@ -154,7 +139,12 @@ Or:
 
 The simple but implacable constraints, coupled with the diversity of ways to win, fill cycling with the riveting uncertainty that can make it so exciting to watch.
 
+
+
+
 ---
+
+
 
 [^uci]: The governing body of cycling, the [UCI][https://www.uci.org/], is rightfully [mocked][https://youtu.be/Hcoj2v8fyf4] for its extensive rulebook. But for the most part, professional cyclists are able to wear the correct length socks and chuck their water bottles in the right places.
 [^intermediate_sprints]: Checkpoints along the course in some stages, awarding either points or seconds off overall cumulative time (for those seeking GC glory). Usually flat-ish areas to keep these distinct from mountain checkpoints used for the mountains classification.
