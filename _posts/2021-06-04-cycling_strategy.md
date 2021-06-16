@@ -140,13 +140,14 @@ Or:
 The simple but implacable constraints, coupled with the diversity of ways to win, fill cycling with the riveting uncertainty that can make it so exciting to watch.
 
 
-
-
+<br>
+<br>
 ---
+<br>
+<br>
 
 
-
-[^uci]: The governing body of cycling, the [UCI][https://www.uci.org/], is rightfully [mocked][https://youtu.be/Hcoj2v8fyf4] for its extensive rulebook. But for the most part, professional cyclists are able to wear the correct length socks and chuck their water bottles in the right places.
+[^uci]: The governing body of cycling, the [UCI][uci], is rightfully [mocked][uci_mocked] for its extensive rulebook. But for the most part, professional cyclists are able to wear the correct length socks and chuck their water bottles in the right places.
 [^intermediate_sprints]: Checkpoints along the course in some stages, awarding either points or seconds off overall cumulative time (for those seeking GC glory). Usually flat-ish areas to keep these distinct from mountain checkpoints used for the mountains classification.
 [^kom_points]: KOM points are distinct from the points used for the points jersey.
 [^sprint_gremlin]: Personally, I find the frantic-gremlin position sprinters assume for maximum output to be just beautiful to watch, with hours of racing consummated in a chaotic dozen seconds.
@@ -188,3 +189,6 @@ The simple but implacable constraints, coupled with the diversity of ways to win
 [froome_tour_8]:[https://youtu.be/6lF-rlrNE84?t=5738]
 [froome_giro_19_1]:[https://youtu.be/9USGFIF2UWc?t=105]
 [froome_giro_19_2]:[https://www.youtube.com/watch?v=mccKzTdfXts]
+
+[uci]:[https://www.uci.org/]
+[uci_mocked]:[https://youtu.be/Hcoj2v8fyf4]
