@@ -6,16 +6,31 @@ date:   2021-06-04
 
 One of the fascinating things about sport is the extent to which dominant strategies derive from the basic dynamics of the rules and the physical possibilities of the participants.
 
-Run fastest from A to B, no (excessive) shoving.
-Swim x laps the fastest, in this specific way.
-Get the ball in the goal, without using your hands.
-Get the ball in the basket, more points if you shoot from beyond this arc.
+- *Run fastest from A to B, no (excessive) shoving*
+- *Swim x laps the fastest, in this specific way*
+- *Get the ball in the goal, without using your hands*
+- *Get the ball in the basket, more points if you shoot from beyond this arc*
 
-To my delight, I recently found the same to be true about road cycling. "Bike fastest from A to B", while true on its face, does similarly little to convey the rich strategies and captivating uncertainty contained within. Thankfully, a recent 2-week quarantine allowed me to get way too into the 2021 Giro d'Italia, a 21 stage 'Grand Tour'[^grand_tour] race, and get a much better understanding of this underrated sport.
+To my delight, I recently found the same to be true about road cycling. *"Bike fastest from A to B"*, while true on its face, does similarly little to convey the rich strategies and captivating uncertainty contained within. Thankfully, a recent 2-week quarantine allowed me to get way too into the 2021 Giro d'Italia, a 21 stage 'Grand Tour'[^grand_tour] race, and get a much better understanding of this underrated sport.
 
 This post is an attempt to lay out how I think about the competitive variables of cycling racing, and how those interact to create thrilling moments of prowess.
 
 # The Constraints
+## The Constraints
+### The Constraints
+
+# *The Constraints*
+## *The Constraints*
+### *The Constraints*
+
+# **The Constraints**
+## **The Constraints**
+## **The Constraints**
+
+# ***The Constraints***
+## ***The Constraints***
+## ***The Constraints***
+
 
 Beyond the UCI's[^uci] stringent sock regulations, there are a number of key constraints teams and riders must overcome to win a bike race, constraints that intimately shape the competition.
 
@@ -139,7 +154,7 @@ Or:
 
 The simple but implacable constraints, coupled with the diversity of ways to win, fill cycling with the riveting uncertainty that can make it so exciting to watch.
 
-
+---
 
 [^uci]: The governing body of cycling, the [UCI][https://www.uci.org/], is rightfully [mocked][https://youtu.be/Hcoj2v8fyf4] for its extensive rulebook. But for the most part, professional cyclists are able to wear the correct length socks and chuck their water bottles in the right places.
 [^intermediate_sprints]: Checkpoints along the course in some stages, awarding either points or seconds off overall cumulative time (for those seeking GC glory). Usually flat-ish areas to keep these distinct from mountain checkpoints used for the mountains classification.
