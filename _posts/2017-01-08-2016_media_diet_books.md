@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2016 Media Diet"
+title:  "2016 Media Diet - Books"
 date:   2017-01-08
 ---
 
@@ -16,10 +16,11 @@ Always looking for thoughtful recommendations.
 
 Interesting look at the interaction of herding / bubbles in the financing of technological change. The thesis is that overspending in the bubble phase creates socially useful residual value, but some of the recent experiences of 'Uber for X' type businesses and the duplication of infrastructure show that significant value destruction is still possible even if there are net benefits of the phenomenon in aggregate. Book is kind of expensive but is available in the Robarts Stacks at U of T.
 
+<br>
 *Red Notice* - Bill Browder (Christal Wang)
 
 Fast paced, engaging but ultimately shallow read about investing in Russia after the collapse of the Soviet Union and in the emerging oligarchic era from the perspective of one fund manager, who has some nasty run-ins with said oligarchs.
-
+<br>
 *Barbarians at the Gate* - Bryan Burrough and John Helyar
 
 For 95% of people, watching [the movie](https://youtu.be/iPhF_YwWvoM) is the better option unless you relish a very detailed blow by blow of a decades old deal. For those really pressed for time, just watch the 2 minutes starting at 15:55 in the linked video.
