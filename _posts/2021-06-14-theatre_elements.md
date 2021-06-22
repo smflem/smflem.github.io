@@ -12,11 +12,10 @@ But *how*? What makes theatre different? And should we believe--despite relentle
 
 I hope to work through this in three parts:
 
-1) A unique medium: What makes theatre special?
-2) Crushing economics: The impact of cost disease and scalability on theatre
-3) Future possibilities: How to save the soul of theatre (even if the existing body dies)
+1) A unique medium: What makes theatre special?<br>
+2) Crushing economics: The impact of cost disease and scalability on theatre<br>
+3) Future possibilities: How to save the soul of theatre (even if the existing body dies)<br>
 
-<br>
 ---
 
 In this essay, I aim to explore the combination of traits that make theatre unique relative to competing mediums like movies, television, and other formats of video content (e.g., TikTok)[^mediums]. In part 3, I'll try to reason through which of these things are integral, or what can be changed while still recognizing the result as theatre.
@@ -52,6 +51,7 @@ The art is created simultaneously with the audience's experience of it. This asp
 - The strengthened sense of connection between audience and performer ("we're sharing this time as they create this", "they're creating this right now, for me")
 - A strengthened sense of a performance being a unique event ("we're all experiencing this together in time")
 
+<br>
 # *2. Interactive*
 
 *Audience-audience interaction*
@@ -70,6 +70,7 @@ The audience creates their experience of the show together. The applause break, 
 
   To the extent that an audience member feels in sync with their peers, audience-audience interaction serves to heighten the emotions of each, and strengthens shared connections and sense of recognition.
 
+<br>
 *Audience-performer interaction*
 
 The presence of an audience can help performers reach new peaks of excellence in their craft. Performing for an empty hall or for a production crew behind bulky equipment is not the same as performing in a hall of rapt audience members or a stadium of raving fans. Though norms differ on what type of interaction is valued, the live performing arts generally excel in creating opportunities for audience-performer interactions.
@@ -78,6 +79,7 @@ Further, audience members value the opportunity to interact with and be acknowle
 
 While this is possible in other mediums and formats, these interactions are native to the live performing arts to an extent that has not yet been achieved elsewhere.
 
+<br>
 # *3. Immersive*
 
 Immersion will strengthen an audience's experience of the work, leveraging a feeling of it being 'real' into a stronger artistic punch.
@@ -109,7 +111,7 @@ The possibility to employ this portion of the immersive toolkit varies by medium
 <br>
 To give one example of these taken together: I attended a show about a musically-oriented cult, it's recently-deceased founder, and his family. Staged in a church, the show included a welcome on arrival by costumed-disciples, bound custom psalm books with the cult's teachings and songs, and a 'tuning' exercise for willing audience members prior to the opening. We were physically among the performers and asked to sing along at key moments. By the time the kool-aid was passed around at the climax, it took a moment of hesitation before I could drink it, so thorough was my immersion in the performance.
 
-
+<br>
 # *4. Story-driven*
 
 Theatre is generally story-driven. This might seem obvious, but does in fact differentiate it from the norms in some competing mediums.
@@ -128,7 +130,9 @@ In the next post, I'll explore where these challenges come from and what might b
 
 
 <br>
+
 ---
+
 <br>
 
 [^theatre]: When I say 'theatre' I am referring to the plays, musicals, and operas traditionally performed in theatres. While these have many similarities with other live performing arts (e.g., ballet, symphony), I feel they are sufficiently distinct (especially in terms of narrative structure) to treat separately.
@@ -158,4 +162,4 @@ In the next post, I'll explore where these challenges come from and what might b
 [^harry_potter]: Or a single day, in the case of Harry Potter and the Cursed Child, which takes contains 4 acts performed in 2 sittings in a single day.
 
 
-[judi_dench_hand][https://www.reddit.com/r/MovieMistakes/comments/f0eoto/in_cats_2019_cgi_is_so_unfinished_they_didnt/]
+[judi_dench_hand]:[https://www.reddit.com/r/MovieMistakes/comments/f0eoto/in_cats_2019_cgi_is_so_unfinished_they_didnt/]
