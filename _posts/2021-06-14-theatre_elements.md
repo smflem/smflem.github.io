@@ -16,7 +16,11 @@ I hope to work through this in three parts:
 2) Crushing economics: The impact of cost disease and scalability on theatre<br>
 3) Future possibilities: How to save the soul of theatre (even if the existing body dies)<br>
 
+<br>
+
 ---
+
+<br>
 
 In this essay, I aim to explore the combination of traits that make theatre unique relative to competing mediums like movies, television, and other formats of video content (e.g., TikTok)[^mediums]. In part 3, I'll try to reason through which of these things are integral, or what can be changed while still recognizing the result as theatre.
 
@@ -27,11 +31,13 @@ While I won't be focusing on the underlying goals of art / entertainment per se,
 - *Education*, in terms of transmitting social norms, values, and ways of being or thinking
 - *Emotion*, as in calling forth / creating an emotion in the person experiencing the art
 - *Connection*, between people experiencing the art, between the audience and performer, or between the audience and people more generally
-- *Recognition*, primarily in the Hegelian sense [how distinct is this from connection?]
+- *Recognition*, in the Hegelian sense of being *seen* by an other
 
 While there isn't an objective sense in which different art forms are more aesthetically pleasing than others[^pots_plinths], the other ends can all be addressed to some degree by theatre. In what follows, I'll discuss some of the ways that theatre is in fact uniquely suited to achieving these artistic aims.
 
 So what is it that makes *Theatre*?
+
+# **Characteristics**
 
 Theatre is:
 1. Live
@@ -39,8 +45,7 @@ Theatre is:
 3. Immersive
 4. Story-driven
 
-# **Characteristics**
-
+<br>
 # *1. Live*
 
 The art is created simultaneously with the audience's experience of it. This aspect has a number of effects, including (but not limited to):
