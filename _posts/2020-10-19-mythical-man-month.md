@@ -81,7 +81,7 @@ And large corporations often have the resources to build systems that can reduce
 
 Even then, some frictions may prove effectively irreducible, if only in the sense that they are not worthwhile to reduce.
 
-This might occur when a task is relatively small, or will only be undertaken once. In these cases, the effort required to reduce the coordination costs may prove uneconomical. Sometimes [brute forcing](xkcd_spreadsheets) a task is more efficient than using a more elegant approach. Or task may be sufficiently underdescribed such that optimization is impossible (or ill-advised). For example, in the context of innovation, the 'coordination costs' of feedback loops between team members are integral to the process.
+This might occur when a task is relatively small, or will only be undertaken once. In these cases, the effort required to reduce the coordination costs may prove uneconomical. Sometimes [brute forcing](xkcd_spreadsheets) a task is more efficient than using a more elegant approach. Or a task may be sufficiently underdescribed such that optimization is impossible (or ill-advised). For example, in the context of innovation, the 'coordination costs' of feedback loops between team members are integral to the process.
 
 Further, despite the coordination drag, there are can be good reasons for keeping teams less than maximally lean (e.g., [Bus Factor](bus_factor), volatility in capacity required).
 
