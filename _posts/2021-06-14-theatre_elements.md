@@ -35,9 +35,10 @@ While I won't be focusing on the underlying goals of art / entertainment per se,
 
 While there isn't an objective sense in which different art forms are more aesthetically pleasing than others[^pots_plinths], the other ends can all be addressed to some degree by theatre. In what follows, I'll discuss some of the ways that theatre is in fact uniquely suited to achieving these artistic aims.
 
+<br>
 So what is it that makes *Theatre*?
 
-# **Characteristics**
+<br>
 
 Theatre is:
 1. Live
