@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Theatre: Unique Magic?"
+title:  "Theatre: Unique Magic"
 date:   2021-06-21
 ---
 
