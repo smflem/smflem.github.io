@@ -1,0 +1,12 @@
+title: how to use and update Jekyll site
+
+---
+
+#Need bundler and Ruby installed; use git bash to enter commands below
+#If git bash is in wrong starting directory, find file in folder, right click to edit properties
+
+bundle install #Update jekyll build / gem
+
+bundle exec jekyll serve #Run site locally at localhost:4000
+
+bundle update github pages #Update gem (to keep consistent with latest version released)
