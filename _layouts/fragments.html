@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <div class="content">
+
+    <section class="section  typeset">
+
+      <h1>Fragments</h1>
+      <p>The writing herein is rough and unpolished, more working notebook than even finished sketch.
+        I publish it because I think there's value in working in public, but I publish it here so
+        that it's not mistaken for more than it is.
+      </p>
+
+      <p>Even more so than elsewhere on this site, take the below with a grain of salt.
+        As with the rest of the site, all opinions and errors within are my own.<br>
+      </p>
+
+    </section>
+
+    {% include fragment-list.html %}
+
+  </div>
+
+  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}

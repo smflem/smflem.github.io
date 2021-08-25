@@ -1,0 +1,4 @@
+<h5 class="small  post-meta">
+  {% assign date_format = site.date_format | default: "%B %d, %Y" %}
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+</h5>

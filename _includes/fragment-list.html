@@ -1,0 +1,15 @@
+<section class="section  typeset">
+  <ul class="list  list--fragments">
+    {% for page in site.fragments %}
+      <li class="item  item--fragment">
+        <article class="article  article--fragment">
+
+          {% include fragment-list-meta.html %}
+          <h5><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h5>
+          {{ page.content | markdownify | truncatewords: 1000 }}
+
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
