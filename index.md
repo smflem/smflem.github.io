@@ -5,7 +5,7 @@ aside: False
 
 My name is Sean Fleming, and I currently [work](https://www.linkedin.com/in/smflem) as a strategy consultant based in Toronto.
 
-In the past decade I've also been fortunate enough to live in Vancouver, northern Virginia, and New York, and work in Calgary, Montreal, Ann Arbor, and Boulder (among others). I grew up north of Los Angeles. I hold a BCom from the University of British Columbia and an MBA from Columbia Business School.
+In the past decade I've also been fortunate enough to live in Vancouver, northern Virginia, and New York, and work temporarily in Calgary, Montreal, Ann Arbor, and Boulder (among others). I grew up north of Los Angeles. I hold a BCom from the University of British Columbia and an MBA from Columbia Business School.
 
 My professional interests include:
 - Climate change (especially the energy transition)
@@ -22,8 +22,9 @@ Nothing here should be taken to represent any of my past, present, or future emp
 This site is currently built using Jekyll based on the [Alembic](https://github.com/daviddarnes/alembic) theme by David Darnes. It is served via Github Pages.
 
 I can be found elsewhere on the internet at:
+- [Email](mailto:smfleming22@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/smflem)<br>
 - [Github](https://github.com/smflem)<br>
 - [Twitter](https://twitter.com/smflem)<br>
 
-If you find anything here interesting, please do reach out!
+Do reach out!
