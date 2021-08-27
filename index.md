@@ -16,12 +16,12 @@ That said, over the years my work has ranged across topics as disparate as growt
 
 Because this is a personal site, there's also stuff related to musical theatre, cycling, and what movies I happened to watch in a given year.
 
-As with the rest of the site, all opinions and errors within are my own.<br>
+All opinions and errors within are my own.<br>
 Nothing here should be taken to represent any of my past, present, or future employers, clients, etc.
 
 This site is currently built using Jekyll based on the [Alembic](https://github.com/daviddarnes/alembic) theme by David Darnes. It is served via Github Pages.
 
-I can be found elsewhere on the internet at:
+I can be found elsewhere on the internet via:
 - [Email](mailto:smfleming22@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/smflem)<br>
 - [Github](https://github.com/smflem)<br>
