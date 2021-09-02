@@ -136,7 +136,7 @@ navigation_header:
 # - title: Categories
 #   url: /categories/
 - title: Search
-  url: /search/
+  url: /search
 
 navigation_footer:
 - title: smflem.github.io
