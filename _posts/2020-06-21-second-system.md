@@ -17,10 +17,10 @@ First up, The Second System Trap:
 
 >
 >An architect's first work is apt be spare and clean. They know they don't know
->what they're doing, so they does it carefully and with great restraint.
+>what they're doing, so they do it carefully and with great restraint.
 >
->As they designs the first work, frill after frill and embellishment after
->embellishment occur to them. These get stored away to be used 'next time.'
+>As they design the first work, frill after frill and embellishment after
+>embellishment occur to them. These get stored away to be used 'next time'.
 >Sooner or later the first system is finished, and the architect, with firm
 >confidence and a demonstrated mastery of that class of systems, is ready to
 >build a second system.
@@ -36,13 +36,13 @@ When working in consulting I was often either performing analysis or, later, ove
 
 In the context of consulting, this often took the form of unnecessary model 'flexibility' or analysis that answers questions that weren't asked (and don't need to be answered).
 
-As Brooks talks about, in your first system (or your first year of work), you focus on just getting stuff to run (and on getting to the desired analytical output). These first efforts reveal directness in developing a base case or 1st order analysis (e.g., what % of people like product A), rather than complex scenario analysis or the quantification of 2nd order analysis (e.g., what % of people who like product A also like product B).
+As Brooks talks about, in your first system (or your first year of work), you focus on just getting stuff to run (and on getting to the desired analytical output). These first efforts focus on developing a base case or 1st order analysis (e.g., what % of people like product A), rather than complex scenario analysis or the quantification of 2nd order analysis (e.g., what % of people who like product A also like product B).
 
 In this process, follow up questions inevitably arise from clients and supervisors, questions which often require additional model building and new functionality to answer. Even with best efforts to 'spec' the analysis beforehand, iteration and refinement are an inevitable and critical part of the process. In this, the analyst will pick up new tools and an emerging sense of worthwhile features (questions worth asking).
 
 So, when it comes time to build the Second System, if the analyst is good they will want to be proactive in their efforts, using their new skills and sense of worthwhile questions to get ahead of the inevitable refinement requests. They will build out this system with, as Brooks says, 'frill after frill and embellishment after embellishment'.
 
-It's worth noting the obvious here, necessary features are not considered frills. So to be considered a frill, a feature is not 100% necessary. In the context of consulting, the analysis answers a question that didn't need to be answered, often one whose answer is merely interesting but weighs little on the larger decisions being made.
+It's worth noting the obvious here: necessary features are not considered frills. So to be considered a frill, a feature is not 100% necessary. In the context of consulting, the analysis answers a question that didn't need to be answered, often one whose answer may be interesting but weighs little on the larger decisions being made.
 
 One potential solution might seem obvious: the analyst should stick to the spec!
 

@@ -9,7 +9,7 @@ excerpt: |
   A short recap of the books I read surrounding Fukuyama's 'End of History'.
 ---
 
-Alongside Fukuyama's book The End of History and the Last Man (discussed here), I read a cluster of books that I thought might provide interesting related arguments and perspectives, and answer some of the questions raised by Fukuyama. Each of these books is listed below with a small blurb outlining the most relevant points.
+Alongside Fukuyama's book The End of History and the Last Man (discussed [here](https://smflem.github.io/2021/08/23/fukuyama-end-of-history)), I read a cluster of books that I thought might provide interesting related arguments and perspectives, and answer some of the questions raised by Fukuyama. Each of these books is listed below with a small blurb outlining some of the ideas I found relevant.
 
 ***Selected questions for follow-on books:***
 
@@ -44,11 +44,11 @@ Fukuyama asserted that education underpinned the recognition of mass equality th
 
 [**Dignity**](https://www.amazon.ca/Dignity-Seeking-Respect-Back-America/dp/0525534733/) <br>
 _Chris Arnade_ <br>
-Mainstream American society judges / values: economic success, education / credentials. Marginalized (culturally excluded) people broadly fail to conform / perform these values, because the signalling measures are hierarchal, constrained (gated), and often favor incumbents. End up building alternative values / communities around: place, faith, race, drug use. These are less hierarchal and more inclusive, and viewed as 'backwards' to the extent they contradict mainstream economic / credentialed values. Still, these people are people and demand / deserve dignity and respect qua humans.
+Mainstream American society judges / values: economic success, education / credentials. Marginalized (culturally excluded) people broadly fail to conform / perform these values, because the signalling measures are hierarchal, constrained (gated), and often favor incumbents. End up building alternative values / communities around: place, faith, race, drug use. These are less hierarchal and more inclusive, and viewed as 'backwards' to the extent they contradict mainstream economic / credentialed values. Still, these people are people and demand / deserve dignity and respect as people.
 
 [**The Complacent Class**](https://www.amazon.ca/Complacent-Class-Self-Defeating-Quest-American/dp/1250108691/) <br>
 _Tyler Cowen_ <br>
-In our success, we have sought comfort and stability, but this very stability has resulted in a decreasingly dynamic / increasingly balkanized society that is merely holding off discontinuous change (akin to tension building in an earthquake fault line); we have achieved only stasis, not stability. Contra Fukuyama and directional history, Cowen asserts that this stability > stasis > discontinuous change implies a more cyclical historical mechanisms. That said, Cowen seems to be operating at a lower level of abstraction than Fukuyama, so they can theoretically both be right (so long as an ultimate global shift to Fascism isn't the discontinuous change); Cowen doesn't convincingly outline the mechanisms behind the energy supposedly leading to his discontinuous change, even if it feels likely correct given existing global challenges.
+In our success, we have sought comfort and stability, but this very stability has resulted in a decreasingly dynamic / increasingly balkanized society that is merely holding off discontinuous change (akin to tension building in an earthquake fault line); we have achieved only stasis, not stability. Contra Fukuyama and directional history, Cowen asserts that this stability > stasis > discontinuous change implies more cyclical historical mechanisms. That said, Cowen seems to be operating at a lower level of abstraction than Fukuyama, so they can theoretically both be right (so long as an ultimate global shift to Fascism isn't the discontinuous change); Cowen doesn't convincingly outline the mechanisms behind the energy supposedly leading to his discontinuous change, even if it feels likely correct given existing global challenges.
 
 [**Brave New World**](https://www.amazon.ca/Brave-New-World-Aldous-Huxley/dp/030735654X/) <br>
 _Aldous Huxley_ <br>
