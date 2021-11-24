@@ -27,6 +27,5 @@ Other notes from the keynotes:
 - From Carmack: "Incorrect decisions, made centrally, can ruin entire swathes of possibilities"
 
 Further reading:
-
 - [Interview](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/) of Mark Zuckerberg by Ben Thompson
 - The Metaverse is [already here](https://clivethompson.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2), it's Minecraft by Clive Thompson ("A really interesting metaverse is messy. It's not the Stepford airport-lounge that Zuckerberg seems determined to build")
