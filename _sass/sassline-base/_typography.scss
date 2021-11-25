@@ -101,7 +101,7 @@ a {
 
     li {
       font-feature-settings: 'kern', 'onum', 'liga';
-      margin-left: 2rem;
+      margin-left: 1rem;
 
       @include breakpoint(break-1) {
         margin-left: 0;
@@ -110,7 +110,7 @@ a {
       ol, ul {
         padding-top: 1rem;
         margin-bottom: 1rem;
-        margin-left: 2rem;
+        margin-left: 1rem;
       }
     }
   }
@@ -118,7 +118,7 @@ a {
   // Unordered lists.
   ul {
     list-style-position: outside;
-    margin-left: 0.1rem;
+    margin-left: 1rem;
     padding-left: 1rem;
   }
 
@@ -126,22 +126,24 @@ a {
 
   // Ordered lists.
   ol {
-    list-style-type: none;
+    // list-style-type: none;
 
     li {
       counter-increment: top-level;
       list-style-position: outside;
+      margin-left: 1rem;
+      padding-left: 1rem;
 
-      &:before {
-        content: counter(top-level) '.';
-        font-feature-settings: 'lnum', 'tnum';
-        margin-left: 0rem;
-        margin-right: 0.5rem;
-        padding-left: 0rem;
-        position: relative;
-        text-align: right;
-        // width: 0em;
-      }
+      // &:before {
+      //   content: counter(top-level) '.';
+      //   // font-feature-settings: 'lnum', 'tnum';
+      //   margin-left: 0rem;
+      //   margin-right: 0.5rem;
+      //   padding-left: 0rem;
+      //   position: relative;
+      //   text-align: right;
+      //   width: 0em;
+      // }
 
       ul {
 
