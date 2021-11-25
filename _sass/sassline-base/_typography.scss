@@ -135,12 +135,12 @@ a {
       &:before {
         content: counter(top-level) '.';
         font-feature-settings: 'lnum', 'tnum';
-        margin-left: 0rem;
-        margin-right: 0.5rem;
-        padding-left: 0rem;
+        margin-left: 0.1rem;
+        // margin-right: 0.5rem;
+        padding-left: 1rem;
         position: relative;
-        text-align: right;
-        width: 0em;
+        // text-align: right;
+        // width: 0em;
       }
 
       ul {

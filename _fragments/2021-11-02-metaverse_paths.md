@@ -4,6 +4,7 @@ title: Gall's law and the Metaverse
 date: 2021-11-02
 ---
 
+<br>
 Last week, Mark Zuckerberg [outlined](https://www.facebookconnect.com/en-us/session/70f2a060-08ef-4aba-a500-3c0495e5519a/) his grand ambition to build the infrastructure of the metaverse, committing himself and the company formerly known as Facebook to a long-term bet on building a particular vision of the future of social technology. The video was slick, and laid out not just the near-term products that Meta is focusing on, but the long-term principles by which Meta hopes to help build the infrastructure for the metaverse.
 
 Later in the week, John Carmack (Consulting CTO at Oculus) also had a [keynote](https://www.youtube.com/watch?v=BnSUk0je6oo) (Carmack's notes [here](https://www.dropbox.com/s/ruv739914jzquue/connect2021.txt?dl=0)). It included the phrase 'architecture astronauts', and was reported on by a [number](https://arstechnica.com/gaming/2021/10/john-carmack-sounds-a-skeptical-note-over-metas-metaverse-plans/) of [outlets](https://www.gamesindustry.biz/articles/2021-10-29-oculus-john-carmack-skeptical-about-efforts-to-build-the-metaverse) as "skeptical" of the plans laid out by Zuckerberg.

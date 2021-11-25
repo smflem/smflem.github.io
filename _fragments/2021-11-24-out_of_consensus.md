@@ -4,7 +4,7 @@ title: Pressure-testing out-of-consensus trades
 date: 2021-11-24
 ---
 
-<br> <br>
+<br>
 Peter Thiel rightly expounds the value of 'faith in secrets', but books like [Zero to One](https://www.amazon.ca/Zero-One-Notes-Startups-Future/dp/0804139296/) are relatively light on how to tell when you've found one. This matters when you might be waging a big career change (like founding a startup) on whether your 'secret' is true.
 
 What questions might we ask ourselves to pressure test whether an opportunity is real or not?
@@ -17,7 +17,7 @@ Given even weak-form market efficiency, if you think you've identified an opport
 
 There are a couple reasons this might be happening:
 
-- People don't see the opportunity <br> <br> There are lots of reasons for this. One way to think about this is found in Paul Sonkin's book [Pitch the Perfect Investment](https://read.amazon.ca/kp/embed?asin=B0754XYZPY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_HA44VFK5FP0PCXB1WTA8), which breaks these failures down into issues with Dissemination (the right people don't have the information), Processing (people aren't using the right models to understand the information), and Incorporation (the 'market' is still digesting the implications of information or resolving uncertainty). For how lucrative getting this right can be, see [What Bill Gurley Saw](https://commoncog.com/blog/what-bill-gurley-saw/).
+1. People don't see the opportunity <br> <br> There are lots of reasons for this. One way to think about this is found in Paul Sonkin's book [Pitch the Perfect Investment](https://read.amazon.ca/kp/embed?asin=B0754XYZPY&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_HA44VFK5FP0PCXB1WTA8), which breaks these failures down into issues with Dissemination (the right people don't have the information), Processing (people aren't using the right models to understand the information), and Incorporation (the 'market' is still digesting the implications of information or resolving uncertainty). For how lucrative getting this right can be, see [What Bill Gurley Saw](https://commoncog.com/blog/what-bill-gurley-saw/).
 <br> <br>
 
 - People see the opportunity, but don't believe it's worth capturing <br> <br> E.g., [Matt](https://www.bloomberg.com/opinion/articles/2021-11-03/zillow-is-done-trading-houses) [Levine](https://www.bloomberg.com/opinion/articles/2021-11-18/zillow-tried-to-make-less-money) on Zillow and iBuying. Zillow has the scale to be an effective iBuyer of homes, but realizing this opportunity would hurt their main business. Thus, the market is left to be fought over by smaller, more focused rivals like Opendoor.
