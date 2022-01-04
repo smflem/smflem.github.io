@@ -19,7 +19,7 @@ Yet public discussion of private equity have often failed to integrate these var
 
 In particular, there is often disagreement about whether and how private equity firms add value through their work, especially due to the diversity of strategies and overall opacity of the industry. But in taking the evolution of the industry as a whole, from its emergence as a force in the 1980’s to present day, consistent patterns begin to emerge.
 
-Initially known as leveraged buyouts for the then-novel high yield debt they employed, in the 1980’s private equity firms mainly added value by creating urgency at the companies they acquired.
+Initially known as leveraged buyouts for the then-novel high yield debt they employed, in the 1980’s private equity firms mainly added value by creating urgency at the companies they acquired[^1].
 
 One archetypical example from these early years was the 1988 leveraged buyout of RJR Nabisco by Kohlberg, Kravis, Roberts & Co. (KKR). As the 1993 HBO movie Barbarians at the Gate captured, RJR Nabisco was then a bloated conglomerate making everything from Oreos to cigarettes, with spendthrift executives and no clear strategic direction. Even at a purchase price of $25 billion, at the time the largest buyout in history, KKR was able to earn a significant return through basic steps like selling off the corporate jets, spinning off non-core divisions, and renewing focus on the main business (with incentive packages to match for senior management).
 
@@ -41,7 +41,7 @@ Due to the commoditization of urgency and basic strategy, this type of advanced 
 
 While this may earn a return for PE funds and their investors, this mechanism is not always an unalloyed good for society more broadly. Given the many flaws of extant capitalism, the spread of ‘better’ strategic thinking can in practice be harmful for a company, its stakeholders, or for society as a whole. As anti-monopoly advocate Matt Stoller put it, “PE firms serve as transmitters of information across businesses, sort of disease vectors for price gouging and legal arbitrage.”
 
-From a fund’s perspective as well, this can be a challenging thing to pull off consistently. Similar to the case for urgency, any new information or strategic direction must be unavailable to the company or other potential owners for the private equity firm to be uniquely useful. And again, since many funds have been working to do this for many years, most obvious sources of advantage have been eliminated. The result is that continued success often requires deep specialization on the part of funds to navigate the required strategic tradeoffs.
+From a fund’s perspective as well, this can be a challenging thing to pull off consistently. Similar to the case for urgency, any new information or strategic direction must be unavailable to the company or other potential owners for the private equity firm to be uniquely useful. And again, since many funds have been working to do this for many years, most obvious sources of advantage have been competed away. The result is that continued success often requires deep specialization on the part of funds to navigate the required strategic tradeoffs.
 
 This is where Deadspin’s owners appear to have faltered. Great Hill Partners, the fund that acquired Deadspin along with a number of other media properties, and Jim Spanfeller, the executive brought in from Forbes.com to run Deadspin, appear to have believed that existing management was forgoing clear opportunities to improve profitability through increased ad load and increased focus on driving page views. They felt the road to increased profitability was obvious, if only there were “adults in the room” to guide management there.
 
@@ -56,3 +56,5 @@ The result is an increasingly competitive environment, where high valuations req
 These radical strategic attempts and inevitable failures are likely to continue to attract scrutiny of the industry. Unfortunately, this may be an unavoidable outcome of private equity funds trying to scale to deploy their ever larger cash piles effectively. Until private equity funds are able to identify a third engine of value creation beyond urgency and strategic improvement, they will thus remain vulnerable to calls to rein in the industry.
 
 And ultimately no new sources of value may be forthcoming. If so, the PE industry might finally succumb to the negative claims long lobbed at it. As former Morgan Stanley banker Barton Bigg’s famously put it, “There is no asset class too much money can’t spoil.”
+
+[^1]: I mostly ignore the differentiating value of financial engineering throughout, as its evolution has followed a different cadence and shape than the urgency => advanced strategy value-add progression described.
