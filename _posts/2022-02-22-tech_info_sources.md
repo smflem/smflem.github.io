@@ -2,22 +2,30 @@
 layout: post
 title:  "Worthwhile sources for tech info"
 date:   2022-02-22
+categories:
+- Technology
+- Management
+excerpt: |
+  A list of potentially useful sources of information on technology businesses.
 ---
 
 *The below was originally compiled in winter of 2022, when I was working for a tech-focused private equity fund as part of a retainer diligence team. The goal was to help our team, not all of whom had backgrounds in technology / technology companies, build knowledge (in parallel with our day-to-day work) by tapping into the flow of information being published on related topics. The team's focus, and the lean of the list, was towards Fintech / SaaS companies, but my hope is that this might also be useful as a more general compendium.*
 
+--
 
-High signal (likely worth your time for this team):
+High signal (for this team):
 - [Stratechery](https://stratechery.com/) by Ben Thompson
   -  Likely most famous for his ‘[Aggregation theory](https://stratechery.com/2015/aggregation-theory/)’, the Weekly Update is free, and well worthwhile for broader technology analysis; [Beyond Disruption](https://stratechery.com/2015/beyond-disruption/) and [The Value Chain Constraint](https://stratechery.com/2019/the-value-chain-constraint/) may be of particular interest
   - A former colleague who now works in tech says, “Stratechery is an absolute must” and that the (paid) Daily Update is valuable, but I can’t speak to it personally
+
 - A16Z [newsletters](https://info.a16z.com/newsletters.html)
   - Monthly collections of writing on enterprise tech, fintech, crypto (e.g., [CFO in Crisis Mode](https://a16z.com/2020/04/15/new-cfo-tools/), [Fintech scales vertical SaaS](https://future.a16z.com/fintech-scales-vertical-saas/), [Adding top-down sales](https://future.a16z.com/adding-top-down-sales/), [Crypto glossary](https://a16z.com/2019/11/08/crypto-glossary/))
+
 - [Bits about Money](https://bam.kalzumeus.com/) by Patrick Mackenzie ([@patio11](https://twitter.com/patio11) on Twitter)
   - Relatively new newsletter from a prominent Stripe employee, focused on payments
 
-
-
+<br>
+<br>
 Lower signal (high quality, lower avg. relevance):
 - Kevin Kwok ([site](https://kwokchain.com/); [twitter](https://twitter.com/kevinakwok))
   - Infrequently published blog by a former Greylock analyst; known for memes on twitter and using [loops](https://twitter.com/kevinakwok/header_photo) as a framework in analysis
@@ -41,8 +49,8 @@ Lower signal (high quality, lower avg. relevance):
   - Infrequently published personal blog of a China technology analyst for Gavekal Dragonomics
   - [Definite optimism as human capital](http://danwang.co/definite-optimism-as-human-capital/) is a great piece that confirms my bias that science fiction is world-expanding; [How technology grows](https://danwang.co/how-technology-grows/) is the shorter version
 
-
-
+  <br>
+  <br>
 Lower signal (lower avg. quality, lower avg. relevance):
 - Hacker News ([site](https://news.ycombinator.com/))
   - Aggregation of links, generally things of interest to those working in technology, often more technical-minded than ‘news’ sites
@@ -55,8 +63,8 @@ Lower signal (lower avg. quality, lower avg. relevance):
   - Free-with-account blog from the FT; well-written, idiosyncratic pieces on finance and its edges
   - I used to read this regularly, but haven’t in recent years; potentially worthwhile if you like what you’re getting from Matt Levine
 
-
-
+<br>
+<br>
 Long-list of potentially relevant sources (unvetted recos from others marked with a *):
 - Paul Graham’s (founder of Y Combinator) essays ([site](http://www.paulgraham.com/articles.html)) – Essays on startups / life from Y Combinator founder
 - Dan Luu’s personal blog ([site](https://danluu.com/); [twitter](https://twitter.com/danluu)) – Widely read essays on programming, measurement, life from a developer
@@ -67,8 +75,8 @@ Long-list of potentially relevant sources (unvetted recos from others marked wit
 - Klement on investing* ([newsletter](https://klementoninvesting.substack.com/), daily)
 - Strictly VC* ([newsletter](https://www.strictlyvc.com/), daily)
 
-
-
+<br>
+<br>
 Twitter (if you want to mainline big-T Tech culture and discourse; can be low signal):
 - In rough order of potential usefulness, but most of these are unvetted recos from others
   - [Patrick Collison](https://twitter.com/patrickc)

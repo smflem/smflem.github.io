@@ -7,7 +7,7 @@ categories:
 excerpt: |
   A strained metaphor for thinking that I found helpful to work through.
 ---
-*Warning: Solipsistic*
+*Note: Self-centered personal reflections*
 
 Focus is a recurring challenge in my productive life. Given this, over the years I have rolled around many different metaphors for thinking / focusing, in an effort to 1) articulate how this feels subjectively 2) try to focus better / more readily.
 
