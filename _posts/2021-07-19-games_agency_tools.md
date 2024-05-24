@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Games: Training Patterns of Agency"
-date:   2021-07-19
+date: 2021-07-19
 ---
 
 In the fall of 2020, I took up the computer game Factorio. While I had heard of this game before, it was the repeated mention of this game as interesting / useful by those in tech that pushed me over the edge into playing it (not least Tobi Luttke's / Shopify's appreciation of it [here](https://www.joincolossus.com/episodes/64592621/lutke-building-a-modern-business?tab=transcript).
