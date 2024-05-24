@@ -3,9 +3,9 @@ title: "About"
 aside: False
 ---
 
-My name is Sean Fleming, and I currently [work](https://www.linkedin.com/in/smflem) as a strategy consultant based in Toronto.
+My name is Sean Fleming, and I currently [work](https://www.linkedin.com/in/smflem) as a strategy consultant based in Los Angeles.
 
-In the past decade I've also been fortunate enough to live in Vancouver, northern Virginia, and New York, and work temporarily in Calgary, Montreal, Ann Arbor, and Boulder (among others). I grew up north of Los Angeles. I hold a BCom from the University of British Columbia and an MBA from Columbia Business School.
+In the past decade I've also been fortunate enough to live in Toronto, Vancouver, Washington DC (well, northern Virginia), and New York. Beyond that I've worked temporarily in Calgary, Montreal, Ann Arbor, and Boulder (among others). I grew up north of Los Angeles. I hold a BCom from the University of British Columbia and an MBA from Columbia Business School.
 
 My professional interests include:
 - Climate change (especially the energy transition)
