@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <div class="content">
+
+    <section class="section  typeset">
+
+      <h1>Media Diet</h1>
+      <p>A number of years ago, I started keeping track of the books I read, and (unevenly) other things like live events and movies.
+      </p>
+
+      <p>The below are the results. Always looking for thoughtful recommendations!<br>
+      </p>
+
+    </section>
+
+    {% include media-list.html %}
+
+  </div>
+
+  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}
