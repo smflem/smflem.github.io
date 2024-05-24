@@ -6,7 +6,7 @@
       capture: "Syntax Error in 'capture' - Valid syntax: capture [var]"
       case: "Syntax Error in 'case' - Valid syntax: case [condition]"
       case_invalid_when: "Syntax Error - Use 'if' and 'elsif' for conditional logic. Example: {% if condition %} ... {% elsif condition2 %} ... {% endif %}"
-      case_invalid_else: "Syntax Error in tag 'case' - Valid else condition: {% else %} (no parameters) "
+      #case_invalid_else: "Syntax Error in tag 'case' - Valid else condition: {% else %} (no parameters) "
       cycle: "Syntax Error in 'cycle' - Valid syntax: cycle [name :] var [, var2, var3 ...]"
       for: "Syntax Error in 'for loop' - Valid syntax: for [item] in [collection]"
       for_invalid_in: "For loops require an 'in' clause"
