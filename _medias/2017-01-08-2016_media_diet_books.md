@@ -14,7 +14,7 @@ While you can see the full 2016 list [here](https://smflem.github.io/2017/01/08/
 
 Always looking for thoughtful recommendations.
 
-# **Books**
+#### **Books**
 *Book title* - Author (Recommended by)
 
 <br>
